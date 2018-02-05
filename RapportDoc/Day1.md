@@ -21,6 +21,7 @@ Nous avons fait le choix de ESXI pour sa simplicitée et notre bonne connaissanc
 
 
 # Remarques éventuelles
+besoin des adresse ip pour esxi et les différents service
 
 # Sources (Important !)
 https://techmikeny.com/h700-array-guide
