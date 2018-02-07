@@ -2,9 +2,9 @@
 
 - Activation de DHCP et la configuration des vlan à l'intérieur de ce dernier 
 
-Vlan User
+    Vlan User
 
-Vlan Guest
+    Vlan Guest
 
 
 
