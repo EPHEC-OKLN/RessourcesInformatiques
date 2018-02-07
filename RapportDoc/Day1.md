@@ -1,7 +1,5 @@
 # Tâches réalisées
 
-## Serveur Principal
-
 # Problèmes rencontrés (énoncé du problème + solution)
 
 
