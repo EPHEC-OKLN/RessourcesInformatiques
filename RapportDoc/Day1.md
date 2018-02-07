@@ -2,10 +2,7 @@
 
 ## Serveur Principal
 
-
-## Autre
-I
-# Problèmes rencontrés (énnoncé du problème + solution)
+# Problèmes rencontrés (énoncé du problème + solution)
 
 
 # Motivations des technologies/infrastructures utilisées
