@@ -10,6 +10,8 @@
 
 - Configuration  du serveur windows File  et l'attribution des adresses IP
 
+- Configuration du DNS 
+
 
 
 # Problèmes rencontrés (énnoncé du problème + solution)
