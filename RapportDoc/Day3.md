@@ -8,6 +8,10 @@
 
 - Activation du service DNS 
 
+- Configuration  du serveur windows File  et l'attribution des adresse IP
+
+
+
 # Problèmes rencontrés (énnoncé du problème + solution)
 
 Suite à un problème de déleguation du DNS, nous avons refait un nouveau  windows Serveur-AD  bien propre .
