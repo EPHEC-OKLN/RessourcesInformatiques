@@ -8,7 +8,7 @@
 
 - Activation du service DNS 
 
-- Configuration  du serveur windows File  et l'attribution des adresse IP
+- Configuration  du serveur windows File  et l'attribution des adresses IP
 
 
 
