@@ -6,9 +6,11 @@
 
     Vlan Guest
 
-
+- Activation du service DNS 
 
 # Problèmes rencontrés (énnoncé du problème + solution)
+
+Suite à un problème  de déleguation  de DNS, nous avons refait un nouveau  windows Serveur bien propre .
 
 # Motivations des technologies/infrastructures utilisées
 
