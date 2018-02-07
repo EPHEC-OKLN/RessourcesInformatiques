@@ -15,7 +15,9 @@
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 
-Suite à un problème de déleguation du DNS, nous avons refait un nouveau  windows Serveur-AD  bien propre .
+- Suite à un problème de déleguation du DNS, nous avons refait un nouveau  windows Serveur-AD  bien propre .
+
+-  Un problème de liaison entre l'Active Directory  et le service  DNS 
 
 # Motivations des technologies/infrastructures utilisées
 
