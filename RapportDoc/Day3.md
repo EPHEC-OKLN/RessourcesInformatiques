@@ -6,11 +6,10 @@
 
     Vlan Guest
 
-- Activation du service DNS 
+- Configuration  du DNS ( nom de domaine , Adresse IP...) 
 
 - Configuration  du serveur windows File  et l'attribution des adresses IP
 
-- Configuration du DNS 
 
 
 
