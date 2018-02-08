@@ -12,6 +12,8 @@ Configuration du DHCP  en ajoutant les groupes
 
 Création des zone DNS
 
+Installation et configuration de WDS 
+
 # Problèmes rencontrés (énnoncé du problème + solution)
  
  Problème de connexion lié  au câblage sur le switch 
