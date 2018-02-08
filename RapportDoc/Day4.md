@@ -14,7 +14,7 @@ Création des zone DNS
 
 # Problèmes rencontrés (énnoncé du problème + solution)
  
- Problème de câblage sur le switch 
+ Problème de connexion lié  au câblage sur le switch 
 
 # Motivations des technologies/infrastructures utilisées
 
