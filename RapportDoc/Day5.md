@@ -54,6 +54,7 @@ les problèmes rencontrés durant cette semaine sont les suivants:
 nous n'avons pas eu le temps de mettre en Place:
 
  - Proxy Web
+ -configuration du nps
  
 
 # Sources (Important !)
