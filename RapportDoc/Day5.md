@@ -19,10 +19,13 @@
 
 - Ajouter  les rôles (AD , DHCP, DNS serveur fichier, WDS, WSUS, Exchange(IIS))
 
-- Configuration du DHCP en ajoutant des pools 
- * user
- * management
- * guest
+- Configuration du DHCP en ajoutant des pools :
+    
+    * user
+    
+    * management
+    
+    * guest
  
 - création des users et des groupes dans l'AD 
 .
