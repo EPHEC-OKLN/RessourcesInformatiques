@@ -53,11 +53,11 @@ les problèmes rencontrés durant cette semaine sont les suivants:
 
 nous n'avons pas eu le temps de mettre en Place:
 
- - Proxy Web
+ - le Proxy Web
  
- - configuration du nps
+ - la configuration du nps
  
- -mise en place du autorité de sécurisation local
+ - une autorité de sécurisation local
  
 
 # Sources (Important !)
