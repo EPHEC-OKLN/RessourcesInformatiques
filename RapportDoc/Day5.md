@@ -57,6 +57,8 @@ nous n'avons pas eu le temps de mettre en Place:
  
  - configuration du nps
  
+ -mise en place du autorité de sécurisation local
+ 
 
 # Sources (Important !)
 
