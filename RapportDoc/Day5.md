@@ -51,6 +51,11 @@ les problèmes rencontrés durant cette semaine sont les suivants:
 
 # Remarques éventuelles
 
+nous n'avons pas eu le temps de mettre en Place:
+
+ - Proxy Web
+ 
+
 # Sources (Important !)
 
 https://openclassrooms.com/courses/integrez-un-serveur-ou-client-linux-dans-un-domaine-windows
